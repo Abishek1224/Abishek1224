@@ -40,15 +40,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Abishek1224&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek1224&theme=tokyonight">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek1224&layout=compact&theme=tokyonight">
 </p>
 
 ---
