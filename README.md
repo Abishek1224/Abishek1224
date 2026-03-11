@@ -77,8 +77,8 @@ Full stack project using **HTML, CSS, JavaScript, and Flask**.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn here  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/abishek-prasad-lekhak-3057b0307/
+- 📧 Email: abisheklekhak07@gmail.com 
 
 ---
 
