@@ -55,9 +55,6 @@
 
 ## 📌 Featured Projects
 
-🔹 **Jarvis AI Assistant**  
-AI voice assistant built with **Python, Flask, and JavaScript**.
-
 🔹 **Data Science ML Project**  
 Machine learning model for **fault detection using Random Forest**.
 
