@@ -55,12 +55,6 @@
 
 ## 📌 Featured Projects
 
-🔹 **Data Science ML Project**  
-Machine learning model for **fault detection using Random Forest**.
-
-🔹 **Web Application Project**  
-Full stack project using **HTML, CSS, JavaScript, and Flask**.
-
 ---
 
 ## 🌱 Currently Learning
